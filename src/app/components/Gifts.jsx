@@ -1,7 +1,7 @@
 export default function Gifts() {
   return (
     <div id="gifts" class="whenwhere story section-padding bg-pink">
-      <div class="container story-img">
+      <div class="container ">
         <div class="row">
           <div class="col-md-12 mb-30">
             <span class="oliven-title-meta">Honeymoon</span>
@@ -9,7 +9,7 @@ export default function Gifts() {
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7">
+          <div class="col-md-7 story-img hidden-xs">
             <div class="img">
               <img src="/gifts.jpg" alt="" />
             </div>
@@ -23,6 +23,11 @@ export default function Gifts() {
               However, if you wish to give us a gift, we will gratefully accept
               a contribution to put towards our honeymoon.
             </p>
+          </div>
+          <div class="col-md-7 story-img hidden-not-xs">
+            <div class="img">
+              <img src="/gifts.jpg" alt="" />
+            </div>
           </div>
         </div>
       </div>

@@ -49,6 +49,9 @@ export default function FAQs() {
                 </a>
               </li>
             </ul>
+
+            <h3>Is there parking at the venue?</h3>
+            <p>Yes, there is plenty of parking at the venue.</p>
             <h3>Is the wedding happening in one location?</h3>
             <p>
               Yes. The ceremony, wedding breakfast, and evening reception will
@@ -69,12 +72,11 @@ export default function FAQs() {
             </h3>
             <p>
               Yes. Please include information about dietary restrictions and
-              allergies on the
+              allergies on the&nbsp;
               <a
                 href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__rWkQeJUOEs3NE5EVEFFWlFQQ0dMTTY0Q0YyMVlLNC4u"
                 target="_blank"
               >
-                {" "}
                 RSVP form
               </a>
               .
@@ -107,7 +109,8 @@ export default function FAQs() {
             <h3>What time is check out the next morning?</h3>
             <p>
               The hotel check-out time is by <strong>xxxxx</strong>. If you are
-              looking for things to do in the local area, see our suggestions
+              looking for things to do in the local area, see our
+              suggestions&nbsp;
               <a href="#todo">here</a>.
             </p>
             <h3>Can I post photos on social media?</h3>

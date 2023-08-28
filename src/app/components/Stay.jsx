@@ -122,11 +122,11 @@ export default function Stay() {
               </li>
             </ul>
           </div>
-          <div class="col-md-7 story-img">
+          <div class="col-md-7 story-img ">
             <div className="img mb-5">
               <img src="/bedroom.jpg" />
             </div>
-            <div className="img">
+            <div className="img hidden-xs">
               <img src="/stay-2.jpg" />
             </div>
           </div>

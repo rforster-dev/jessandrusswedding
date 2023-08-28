@@ -9,7 +9,7 @@ export default function Timings() {
           </div>
         </div>
         <div class="row">
-          <div class="col-md-7">
+          <div class="col-md-7 hidden-xs">
             <div class=" story-img">
               <div class="img mb-5">
                 <img src="/timings-1.jpg" alt="" />

@@ -5,7 +5,7 @@ export default function Venue() {
         <div class="row">
           <div class="col-md-12 mb-30">
             <span class="oliven-title-meta">Venue</span>
-            <h2 class="oliven-title">When &amp; Where</h2>{" "}
+            <h2 class="oliven-title">Where</h2>
           </div>
         </div>
         <div class="row">

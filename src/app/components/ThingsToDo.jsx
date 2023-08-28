@@ -56,7 +56,7 @@ export default function ThingsToDo() {
                   Highgrove is the private residence of King Charles III, who
                   opens up the gardens every year between April and October.
                   Having dedicated more than 40 years to maintaining it, the
-                  gardens offer plenty of flora and fauna to explore. -
+                  gardens offer plenty of flora and fauna to explore.
                 </p>
               </div>
             </div>
@@ -79,7 +79,7 @@ export default function ThingsToDo() {
                   If you fancy bringing your clubs with you, this course is set
                   within the beautiful grounds of Westonbirt School. Russ is a
                   regular visitor, even if he did almost hit a ball through his
-                  windscreen in the car park that one time…
+                  windscreen in the car park that one time...
                 </p>
               </div>
             </div>
@@ -137,20 +137,20 @@ export default function ThingsToDo() {
                 <p>
                   Visit our home from home. Our little Cotswolds village is just
                   down the road from our wedding venue. We're biased, but it
-                  boasts a
+                  boasts a&nbsp;
                   <a href="https://www.therattlebone.co.uk/;" target="_blank">
                     fantastic pub
                   </a>
-                  , a medieval church, and some
+                  , a medieval church, and some&nbsp;
                   <a href="https://www.angel-sherston.co.uk" target="_blank">
                     rather nice cafés
                   </a>
-                  . There are also lots of
+                  . There are also lots of&nbsp;
                   <a href="http://www.sherstonwalks.org.uk/" target="_blank">
                     lovely walks
                   </a>
-                  around the area if you fancy stretching your legs and seeing
-                  the North Wiltshire countryside.
+                  &nbsp;around the area if you fancy stretching your legs and
+                  seeing the North Wiltshire countryside.
                 </p>
               </div>
             </div>
