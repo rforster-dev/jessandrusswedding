@@ -24,31 +24,31 @@ export default function Timings() {
           <div class="col-md-5">
             <div id="content">
               <ul class="timeline">
-                <li class="event" data-date="11:0am">
+                <li class="event" data-date="12:00am">
                   <h3>Guests arrive</h3>
                 </li>
-                <li class="event" data-date="12:00pm">
+                <li class="event" data-date="1:00pm">
                   <h3>Ceremony</h3>
                 </li>
-                <li class="event" data-date="1:00pm">
+                <li class="event" data-date="2:00pm">
                   <h3>Cocktails and canapés</h3>
                 </li>
-                <li class="event" data-date="2:00pm">
+                <li class="event" data-date="3:00pm">
                   <h3>Speeches</h3>
                 </li>
-                <li class="event" data-date="3:00pm">
+                <li class="event" data-date="3:30pm">
                   <h3>Time to eat</h3>
                 </li>
-                <li class="event" data-date="4:00pm">
+                <li class="event" data-date="5:00pm">
                   <h3>Relax and check in to hotel rooms</h3>
                 </li>
-                <li class="event" data-date="5:00pm">
+                <li class="event" data-date="6:00pm">
                   <h3>Cake</h3>
                 </li>
-                <li class="event" data-date="6:00pm">
+                <li class="event" data-date="7:00pm">
                   <h3>First dance and party time</h3>
                 </li>
-                <li class="event" data-date="7:00pm">
+                <li class="event" data-date="8:00pm">
                   <h3>Evening snacks</h3>
                 </li>
                 <li class="event" data-date="11:00pm">

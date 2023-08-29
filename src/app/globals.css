@@ -666,11 +666,16 @@ input[type="radio"]:checked:before {
   color: #000;
 }
 #oliven-aside .footer1 {
-  position: absolute;
-  bottom: 30px;
-  right: 0;
-  left: 0;
   text-align: center;
+}
+
+@media (min-height: 680px) {
+  #oliven-aside .footer1 {
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    left: 0;
+  }
 }
 #oliven-aside .footer1 p {
   font-size: 12px;
@@ -2137,6 +2142,7 @@ body.offcanvason .oliven-nav-toggle {
 }
 
 .item ul li a {
+  display: block;
   text-decoration: underline;
 }
 
