@@ -13,7 +13,7 @@ import Transport from "./components/Transport";
 import Stay from "./components/Stay";
 import ThingsToDo from "./components/ThingsToDo";
 import FAQs from "./components/Faqs";
-
+import Footer from "./components/Footer";
 export default function Home() {
   return (
     <div>
@@ -30,6 +30,7 @@ export default function Home() {
         <ThingsToDo />
         <RSVP />
         <FAQs />
+        <Footer />
       </main>
     </div>
   );

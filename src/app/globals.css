@@ -825,17 +825,15 @@ input[type="radio"]:checked:before {
 .oliven-nav-toggle {
   position: fixed;
   left: 0px;
-  top: 0px;
+  top: 23px;
   z-index: 9999;
   cursor: pointer;
   opacity: 1;
   visibility: hidden;
   padding: 12px 15px;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
   transition: 0.5s;
   background: #329687;
-  margin: 15px 30px;
+  margin: 5px 5px;
   border-radius: 50%;
 }
 @media screen and (max-width: 768px) {
@@ -861,7 +859,7 @@ body.offcanvason #oliven-aside {
 }
 body.offcanvason #oliven-main,
 body.offcanvason .oliven-nav-toggle {
-  top: 0;
+  top: 23px;
   -moz-transform: translateX(270px);
   -webkit-transform: translateX(270px);
   -ms-transform: translateX(270px);
@@ -1641,7 +1639,6 @@ body.offcanvason .oliven-nav-toggle {
 /* ===== Footer style ===== */
 .footer2 {
   padding: 90px 30px;
-  background: #faf8f7;
 }
 .footer2 img {
   width: 90px;

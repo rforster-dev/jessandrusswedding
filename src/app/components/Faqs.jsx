@@ -22,8 +22,8 @@ export default function FAQs() {
             </p>
             <h3>When do I need to RSVP by?</h3>
             <p>
-              Please fill in the form by <strong>xxxxxxxxxx</strong> at the
-              latest.
+              Please fill in the form by <strong> 22 February 2024</strong> at
+              the latest.
             </p>
             <h3>What is the address of the wedding venue?</h3>
             <p>
@@ -64,6 +64,8 @@ export default function FAQs() {
               reception outside in the hotel's lovely grounds, but we know that
               you can never predict the Great British weather.
             </p>
+            <h3>Should I bring my own confetti?</h3>
+            <p>No, confetti will be provided at the venue.</p>
             <h3>Are children invited to the wedding?</h3>
             <p>Sorry, we cannot accommodate children at our wedding.</p>
             <h3>
@@ -87,31 +89,33 @@ export default function FAQs() {
               if you would like to give us a gift, we will gratefully accept a
               contribution to put towards our honeymoon.
               <br />
-              <a href="[insert link re honeymoon fund]">Honeymoon Fund</a>
+              <a
+                href="https://app.collectionpot.com/pot/jessandruss"
+                target="_blank"
+              >
+                Honeymoon Fund
+              </a>
             </p>
             <h3>What time should I arrive at the venue by?</h3>
             <p>
-              Guests can arrive at the venue from <strong>xxxxx</strong>. Please
-              be ready at the venue by <strong>xxxxx</strong>. The ceremony
-              begins at <strong>xxxxx</strong>. (Jess will not be late. Knowing
-              her, she will probably be 30 minutes early.)
+              Guests can arrive at the venue from 12pm. Please be ready at the
+              venue by 12.30pm. The ceremony begins at 1pm. (Jess will not be
+              late. Knowing her, she will probably be 30 minutes early.)
             </p>
             <h3>
               We are staying at the wedding venue for the night. What time can
               we check into our hotel room?
             </h3>
             <p>
-              Check-in at the hotel is from <strong>xxxxx</strong>. We recommend
-              that you check in after the wedding breakfast is finished, and
-              before the cutting of the cake and evening party starts at
-              <strong> xxxx</strong>.
+              Check in at the hotel is from 3pm. We recommend that you check in
+              after the wedding breakfast is finished, and before the cutting of
+              the cake and evening party starts at 7.30pm.
             </p>
             <h3>What time is check out the next morning?</h3>
             <p>
-              The hotel check-out time is by <strong>xxxxx</strong>. If you are
-              looking for things to do in the local area, see our
-              suggestions&nbsp;
-              <a href="#todo">here</a>.
+              The hotel check out time is by 11am. If you are looking for things
+              to do in the local area, see our suggestions here.
+              <a href="#todo">Things to do</a>
             </p>
             <h3>Can I post photos on social media?</h3>
             <p>

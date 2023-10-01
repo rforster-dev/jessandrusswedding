@@ -135,22 +135,20 @@ export default function ThingsToDo() {
                   </a>
                 </h5>
                 <p>
-                  Visit our home from home. Our little Cotswolds village is just
-                  down the road from our wedding venue. We're biased, but it
-                  boasts a&nbsp;
+                  Our little Cotswolds village is just down the road from our
+                  wedding venue. We're biased, but it boasts a&nbsp;
                   <a href="https://www.therattlebone.co.uk/;" target="_blank">
                     fantastic pub
                   </a>
-                  , a medieval church, and some&nbsp;
+                  , a medieval church, some&nbsp;
                   <a href="https://www.angel-sherston.co.uk" target="_blank">
                     rather nice cafés
                   </a>
-                  . There are also lots of&nbsp;
+                  and some{" "}
                   <a href="http://www.sherstonwalks.org.uk/" target="_blank">
                     lovely walks
                   </a>
-                  &nbsp;around the area if you fancy stretching your legs and
-                  seeing the North Wiltshire countryside.
+                  .
                 </p>
               </div>
             </div>

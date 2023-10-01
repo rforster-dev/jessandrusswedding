@@ -10,8 +10,10 @@ export default function Stay() {
               The hotel has 42 rooms available if you wish to stay the night.
             </p>
             <p>
-              You can book directly through the website or by calling the
-              reception team.
+              <strong>
+                Discounts on rooms are available by using this promotional code:
+                'FORSTER'. A deposit of £40 per room is required when booking.
+              </strong>
             </p>
             <ul>
               <li>
