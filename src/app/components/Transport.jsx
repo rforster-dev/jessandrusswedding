@@ -18,22 +18,31 @@ export default function Transport() {
               </p>
               <ul>
                 <li>
-                  <a href="https://abbey-taxis-malmesbury.ueniweb.com/">
+                  <a
+                    target="_blank"
+                    href="https://abbey-taxis-malmesbury.ueniweb.com/"
+                  >
                     Abbey Taxis, Malmesbury
                   </a>
                 </li>
                 <li>
-                  <a href="http://www.expresstaxi.co.uk/">
+                  <a target="_blank" href="http://www.expresstaxi.co.uk/">
                     Express Taxis, Tetbury
                   </a>
                 </li>
                 <li>
-                  <a href="https://samanthascabsmalmesbury.business.site/">
+                  <a
+                    target="_blank"
+                    href="https://samanthascabsmalmesbury.business.site/"
+                  >
                     Samantha's Cabs, Malmesbury
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.veezu.co.uk/ride/locations">
+                  <a
+                    target="_blank"
+                    href="https://www.veezu.co.uk/ride/locations"
+                  >
                     Veezu: Bath, Bristol and Chippenham
                   </a>
                 </li>

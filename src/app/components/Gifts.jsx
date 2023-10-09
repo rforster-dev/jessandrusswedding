@@ -29,7 +29,7 @@ export default function Gifts() {
                 href="https://app.collectionpot.com/pot/jessandruss"
                 target="_blank"
               >
-                https://app.collectionpot.com/pot/jessandruss
+                Go to our collection pot
               </a>
             </p>
           </div>

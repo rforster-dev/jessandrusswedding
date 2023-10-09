@@ -67,7 +67,7 @@ export default function FAQs() {
             <h3>Should I bring my own confetti?</h3>
             <p>No, confetti will be provided at the venue.</p>
             <h3>Are children invited to the wedding?</h3>
-            <p>Sorry, we cannot accommodate children at our wedding.</p>
+            <p>No, this will be an adults-only celebration.</p>
             <h3>
               Will there be food options for guests with dietary restrictions or
               allergies?
@@ -93,7 +93,7 @@ export default function FAQs() {
                 href="https://app.collectionpot.com/pot/jessandruss"
                 target="_blank"
               >
-                Honeymoon Fund
+                Go to our Collection Pot
               </a>
             </p>
             <h3>What time should I arrive at the venue by?</h3>
@@ -108,13 +108,13 @@ export default function FAQs() {
             </h3>
             <p>
               Check in at the hotel is from 3pm. We recommend that you check in
-              after the wedding breakfast is finished, and before the cutting of
+              after the wedding breakfast has finished and before the cutting of
               the cake and evening party starts at 7.30pm.
             </p>
             <h3>What time is check out the next morning?</h3>
             <p>
               The hotel check out time is by 11am. If you are looking for things
-              to do in the local area, see our suggestions here.
+              to do in the local area, see our suggestions here.{" "}
               <a href="#todo">Things to do</a>
             </p>
             <h3>Can I post photos on social media?</h3>

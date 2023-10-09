@@ -45,7 +45,7 @@ export default function Header() {
         <div class="oliven-logo">
           <a href="/">
             <img src="images/logo.png" alt="" />
-            <span>Jess &amp; Russ</span>
+            <span>Jess &amp; &nbsp; Russ</span>
             <h6>22.04.2024</h6>
           </a>
         </div>

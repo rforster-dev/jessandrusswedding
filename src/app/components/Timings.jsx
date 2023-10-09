@@ -4,7 +4,7 @@ export default function Timings() {
       <div class="container">
         <div class="row">
           <div class="col-md-12 mb-30">
-            <span class="oliven-title-meta">Wedding</span>
+            <span class="oliven-title-meta">Wedding day</span>
             <h2 class="oliven-title">Timings for the day</h2>
           </div>
         </div>
@@ -40,7 +40,7 @@ export default function Timings() {
                   <h3>Time to eat</h3>
                 </li>
                 <li class="event" data-date="5:30pm">
-                  <h3>Relax and check in to hotel rooms</h3>
+                  <h3>Relax and hotel check in</h3>
                 </li>
                 <li class="event" data-date="7:30pm">
                   <h3>Cake</h3>

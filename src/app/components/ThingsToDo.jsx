@@ -4,7 +4,7 @@ export default function ThingsToDo() {
       <div class="container story-img">
         <div class="row">
           <div class="col-md-12 mb-30">
-            <span class="oliven-title-meta">Near by</span>
+            <span class="oliven-title-meta">Nearby</span>
             <h2 class="oliven-title">Things to do</h2>{" "}
           </div>
         </div>
@@ -137,12 +137,12 @@ export default function ThingsToDo() {
                 <p>
                   Our little Cotswolds village is just down the road from our
                   wedding venue. We're biased, but it boasts a&nbsp;
-                  <a href="https://www.therattlebone.co.uk/;" target="_blank">
+                  <a href="https://www.therattlebone.co.uk/" target="_blank">
                     fantastic pub
                   </a>
                   , a medieval church, some&nbsp;
                   <a href="https://www.angel-sherston.co.uk" target="_blank">
-                    rather nice cafés
+                    rather nice cafés{" "}
                   </a>
                   and some{" "}
                   <a href="http://www.sherstonwalks.org.uk/" target="_blank">

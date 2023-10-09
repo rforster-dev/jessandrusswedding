@@ -5,7 +5,7 @@ export default function Stay() {
         <div class="row">
           <div class="col-md-5 mb-30 item">
             <span class="oliven-title-meta">Stay</span>
-            <h2 class="oliven-title">Accomodation</h2>
+            <h2 class="oliven-title">Accommodation</h2>
             <p>
               The hotel has 42 rooms available if you wish to stay the night.
             </p>
@@ -21,7 +21,7 @@ export default function Stay() {
                   href="https://www.cotswold-inns-hotels.co.uk/hare-and-hounds-hotel/"
                   target="_blank"
                 >
-                  Book a room at the Hare and Hounds Hotel
+                  Book a room online
                 </a>
               </li>
 
@@ -29,7 +29,7 @@ export default function Stay() {
                 <a href="tel:01666 881000">Call the hotel: 01666 881000</a>
               </li>
             </ul>
-            <h3 class="oliven-title mt-5">Nearby accomodation</h3>
+            <h3 class="oliven-title mt-5">Nearby accommodation</h3>
             <p>
               Alternatively, there are lots of hotels, bed and breakfasts, and
               holiday cottages in and around the area.

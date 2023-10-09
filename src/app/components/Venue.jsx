@@ -22,7 +22,7 @@ export default function Venue() {
                     href="https://www.cotswold-inns-hotels.co.uk/hare-and-hounds-hotel"
                     target="_blank"
                   >
-                    Hare and Hounds Hotel, Tetbury
+                    Website
                   </a>
                 </li>
                 <li>

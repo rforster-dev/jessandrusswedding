@@ -20,15 +20,13 @@ export default function Story() {
             data-animate-effect="fadeInRight"
           >
             <h4 class="oliven-story-subtitle">Our wedding</h4>
-            <h3 class="oliven-story-title">Welcome!</h3>
-            <p>Welcome to our wedding website!</p>
 
             <p>We can't wait to share our special day with you.</p>
 
             <p>
-              Find all the details you need here, including timings for the day,
-              hotels and travel suggestions, and ideas for what to do in the
-              local area if you fancy extending your visit.
+              Find all the details you need for our wedding here, including
+              timings for the day, hotels and travel suggestions, and ideas for
+              what to do in the local area if you fancy extending your visit.
             </p>
 
             <p>

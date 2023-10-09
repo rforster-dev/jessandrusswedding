@@ -7,11 +7,11 @@ export default function Footer() {
             <h2>
               <a href="index.html">
                 <span>
-                  Jess <small>&amp;</small> Russ
+                  Jess <small> &amp; &nbsp; </small> Russ
                 </span>
               </a>
             </h2>
-            <p class="copyright">22nd April, 2024</p>
+            <p class="copyright">Monday 22 April 2024</p>
           </div>
         </div>
       </div>
