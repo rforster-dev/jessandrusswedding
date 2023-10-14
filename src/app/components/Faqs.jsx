@@ -69,11 +69,11 @@ export default function FAQs() {
             <h3>Are children invited to the wedding?</h3>
             <p>No, this will be an adults-only celebration.</p>
             <h3>
-              Will there be food options for guests with dietary restrictions or
+              Will there be food options for guests with dietary requirements or
               allergies?
             </h3>
             <p>
-              Yes. Please include information about dietary restrictions and
+              Yes. Please include information about dietary requirements and
               allergies on the&nbsp;
               <a
                 href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__rWkQeJUOEs3NE5EVEFFWlFQQ0dMTTY0Q0YyMVlLNC4u"
@@ -93,7 +93,7 @@ export default function FAQs() {
                 href="https://app.collectionpot.com/pot/jessandruss"
                 target="_blank"
               >
-                Go to our Collection Pot
+                Go to our Collection Pot to find out more.
               </a>
             </p>
             <h3>What time should I arrive at the venue by?</h3>
@@ -114,8 +114,8 @@ export default function FAQs() {
             <h3>What time is check out the next morning?</h3>
             <p>
               The hotel check out time is by 11am. If you are looking for things
-              to do in the local area, see our suggestions here.{" "}
-              <a href="#todo">Things to do</a>
+              to do in the local area,{" "}
+              <a href="#todo">see our suggestions here</a>.
             </p>
             <h3>Can I post photos on social media?</h3>
             <p>

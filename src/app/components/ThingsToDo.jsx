@@ -142,8 +142,8 @@ export default function ThingsToDo() {
                   </a>
                   , a medieval church, some&nbsp;
                   <a href="https://www.angel-sherston.co.uk" target="_blank">
-                    rather nice cafés{" "}
-                  </a>
+                    rather nice cafés
+                  </a>{" "}
                   and some{" "}
                   <a href="http://www.sherstonwalks.org.uk/" target="_blank">
                     lovely walks

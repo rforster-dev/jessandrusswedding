@@ -9,8 +9,8 @@ export default function RSVP() {
                 Will you attend?
               </span>
               <h2 class="oliven-title text-center">RSVP</h2>
-              <p>To let us know if you can make the day, open up this form.</p>
-              <p>Please RSVP by 22 February 2024</p>
+              <p>Let us know if you can make the day.</p>
+              <p>Please RSVP by 22 February 2024.</p>
               <a
                 href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__rWkQeJUOEs3NE5EVEFFWlFQQ0dMTTY0Q0YyMVlLNC4u"
                 target="_blank"

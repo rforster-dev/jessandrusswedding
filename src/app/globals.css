@@ -1167,7 +1167,7 @@ body.offcanvason .oliven-nav-toggle {
 }
 
 #rsvp .bg-white {
-  padding-bottom: 25px;
+  padding:0 15px 25px 15px;
 }
 
 @media (min-width: 768px) {

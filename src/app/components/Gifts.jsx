@@ -23,13 +23,14 @@ export default function Gifts() {
               However, if you wish to give us a gift, we will gratefully accept
               a contribution to put towards our honeymoon.
             </p>
+            <p className="item">Head to our Collection Pot to find out more.</p>
             <p className="item">
-              Head to our Collection Pot to find out more.
+              {" "}
               <a
                 href="https://app.collectionpot.com/pot/jessandruss"
                 target="_blank"
               >
-                Go to our collection pot
+                Go to our Collection Pot
               </a>
             </p>
           </div>
