@@ -33,13 +33,13 @@ export default function Timings() {
                 <li class="event" data-date="1:30pm">
                   <h3>Cocktails and canapés</h3>
                 </li>
-                <li class="event" data-date="3:00pm">
+                <li class="event" data-date="3:30pm">
                   <h3>Speeches</h3>
                 </li>
-                <li class="event" data-date="3:30pm">
+                <li class="event" data-date="3:45pm">
                   <h3>Time to eat</h3>
                 </li>
-                <li class="event" data-date="5:30pm">
+                <li class="event" data-date="5:45pm">
                   <h3>Relax and hotel check in</h3>
                 </li>
                 <li class="event" data-date="7:30pm">
